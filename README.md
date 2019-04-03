@@ -2,5 +2,6 @@
 
 ## Links
 
+* Website: <https://modusawperandi.com>
 * Issues: <https://github.com/KovuTheHusky/modusawperandi.com/issues>
 * Source: <https://github.com/KovuTheHusky/modusawperandi.com>
